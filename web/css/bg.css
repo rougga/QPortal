@@ -1,0 +1,79 @@
+.ripple-background{
+    position: absolute;
+}
+.circle{
+    position: absolute;
+    border-radius: 50%;
+    background: purple;
+    animation: ripple 15s infinite;
+    box-shadow: 0px 0px 1px 0px #508fb9;
+    
+
+}
+.small{
+  width: 80vw;
+  height: 80vh;
+  left: -40vw;
+  bottom: -40vh;
+}
+
+.medium{
+  width: 100vw;
+  height: 100vh;
+  left: -50vw;
+  bottom: -50vh;
+}
+
+.large{
+  width: 120vw;
+  height: 120vh;
+  left: -60vw;
+  bottom: -60vh;
+}
+
+.xlarge{
+  width: 140vw;
+  height: 140vh;
+  left: -70vw;
+  bottom: -70vh;
+}
+
+.xxlarge{
+  width: 150vw;
+  height: 150vh;
+  left: -75vw;
+  bottom: -75vh;
+}
+
+.shade1{
+    opacity: 0.2;
+}
+.shade2{
+    opacity: 0.4;
+}
+
+.shade3{
+    opacity: 0.6;
+}
+
+.shade4{
+    opacity: 0.8;
+}
+
+.shade5{
+    opacity: 1;
+}
+
+@keyframes ripple{
+    0%{
+        transform: scale(0.8);
+    }
+
+    50%{
+        transform: scale(1.2);
+    }
+
+    100%{
+        transform: scale(0.8);
+    }
+}

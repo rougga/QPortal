@@ -1,0 +1,169 @@
+{
+    "title_div_drag": {
+        "ele_id": "title_div_drag",
+        "style1": {
+            "fontsize": "50px",
+            "fontstyle": "黑体",
+            "fontcolor": "#ffff00",
+            "textalign": "center"
+        },
+        "bgcolor": "",
+        "width": "400px",
+        "height": "100px",
+        "scroll": "no",
+        "offset": {
+            "top": 39,
+            "left": 721
+        }
+    },
+    "sysdate_div_drag": {
+        "ele_id": "sysdate_div_drag",
+        "style1": {
+            "fontsize": "30px",
+            "fontstyle": "黑体",
+            "fontcolor": "",
+            "textalign": "right"
+        },
+        "bgcolor": "#ffa500",
+        "width": "300px",
+        "height": "50px",
+        "offset": {
+            "top": 886,
+            "left": 0
+        },
+        "scroll": "no"
+    },
+    "tips_div_drag": {
+        "ele_id": "tips_div_drag",
+        "style1": {
+            "fontsize": "30px",
+            "fontstyle": "黑体",
+            "fontcolor": "#ff0000",
+            "textalign": "left"
+        },
+        "bgcolor": "",
+        "width": "500px",
+        "height": "50px",
+        "offset": {
+            "top": 886,
+            "left": 300
+        },
+        "scroll": "left"
+    },
+    "biz_a3f3ea1c52224201b303bef39df1060c": {
+        "ele_id": "biz_a3f3ea1c52224201b303bef39df1060c",
+        "style1": {
+            "fontsize": "30px",
+            "fontstyle": "黑体",
+            "fontcolor": "#ff0000",
+            "textalign": "left"
+        },
+        "style2": {
+            "fontsize": "20px",
+            "fontstyle": "黑体",
+            "fontcolor": "#ffa500",
+            "textalign": "left"
+        },
+        "style3": {
+            "fontsize": "16px",
+            "fontstyle": "黑体",
+            "fontcolor": "#32cd32",
+            "textalign": "left"
+        },
+        "bgcolor": "",
+        "width": "300px",
+        "height": "150px",
+        "offset": {
+            "top": 351,
+            "left": 523
+        },
+        "scroll": "no"
+    },
+    "biz_3ee1fc6d94864392ac3473d13dc92c43": {
+        "ele_id": "biz_3ee1fc6d94864392ac3473d13dc92c43",
+        "style1": {
+            "fontsize": "30px",
+            "fontstyle": "黑体",
+            "fontcolor": "#ff0000",
+            "textalign": "left"
+        },
+        "style2": {
+            "fontsize": "20px",
+            "fontstyle": "黑体",
+            "fontcolor": "#ffa500",
+            "textalign": "left"
+        },
+        "style3": {
+            "fontsize": "16px",
+            "fontstyle": "黑体",
+            "fontcolor": "#32cd32",
+            "textalign": "left"
+        },
+        "bgcolor": "",
+        "width": "300px",
+        "height": "150px",
+        "offset": {
+            "top": 351,
+            "left": 964
+        },
+        "scroll": "no"
+    },
+    "biz_3d392d4a6a394b1fb608ab61c0f4903c": {
+        "ele_id": "biz_3d392d4a6a394b1fb608ab61c0f4903c",
+        "style1": {
+            "fontsize": "30px",
+            "fontstyle": "黑体",
+            "fontcolor": "#ff0000",
+            "textalign": "left"
+        },
+        "style2": {
+            "fontsize": "20px",
+            "fontstyle": "黑体",
+            "fontcolor": "#ffa500",
+            "textalign": "left"
+        },
+        "style3": {
+            "fontsize": "16px",
+            "fontstyle": "黑体",
+            "fontcolor": "#32cd32",
+            "textalign": "left"
+        },
+        "bgcolor": "",
+        "width": "300px",
+        "height": "150px",
+        "offset": {
+            "top": 609,
+            "left": 526
+        },
+        "scroll": "no"
+    },
+    "biz_7a18ae4e94ad4757a540075269df5ce1": {
+        "ele_id": "biz_7a18ae4e94ad4757a540075269df5ce1",
+        "style1": {
+            "fontsize": "30px",
+            "fontstyle": "黑体",
+            "fontcolor": "#ff0000",
+            "textalign": "left"
+        },
+        "style2": {
+            "fontsize": "20px",
+            "fontstyle": "黑体",
+            "fontcolor": "#ffa500",
+            "textalign": "left"
+        },
+        "style3": {
+            "fontsize": "16px",
+            "fontstyle": "黑体",
+            "fontcolor": "#32cd32",
+            "textalign": "left"
+        },
+        "bgcolor": "",
+        "width": "300px",
+        "height": "150px",
+        "offset": {
+            "top": 608,
+            "left": 970
+        },
+        "scroll": "no"
+    }
+}
