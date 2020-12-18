@@ -83,15 +83,15 @@
                         </a>
                     </div>
                     <div class="service">
-                        <a href="/CallPad" class="service-link">
+                        <a href="/Qcall" class="service-link">
                             <div class="frame">
                                 <div class="service-icon">
                                     <span class="">
                                         <img src="img/megaphone.png" class=""  height="128" width="128" alt="" />
                                     </span>
                                 </div>
-                                <h4>CallPad</h4>
-                                <p>Appel des Tickets.</p>
+                                <h4>QCall</h4>
+                                <p>Appel des Tickets(CallPad).</p>
                             </div>
                         </a>
                     </div>
